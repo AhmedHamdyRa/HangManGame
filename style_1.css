@@ -1,0 +1,23 @@
+div{
+    font-size: 16px;
+    background-color: #ffffff;
+    width: 90vw;
+    max-width: 50em; /*34*/
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 3em;
+    border-radius: 0.6em;
+    box-shadow: 0 1.2em 2.4em rgba(111, 85, 0, 0.25);
+}
+button {
+    font-size: 1.25em;
+    padding: 0.5em 1em;
+    background-color: #cdcdcd;
+    border: 3px solid #000000;
+    color: #000000;
+    border-radius: 0.2em;
+    position: relative;
+    left: 290px;
+}
